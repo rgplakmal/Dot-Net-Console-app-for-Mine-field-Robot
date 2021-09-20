@@ -172,6 +172,7 @@ namespace Geveo.Module.Robot
         {
             return robotName + " Position is " + x + " " + y + " " + direction;
         }
+
         #endregion
     }
 }
